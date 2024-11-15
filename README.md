@@ -88,7 +88,8 @@ O ponto de entrada do aplicativo, onde o contexto e as rotas são definidos.
 Como Rodar o Projeto
 Clone o repositório:
 
-git clone https://github.com/usuario/e-commerce-app.git
+git clone https://github.com/usuario/e-commerce-app.git](https://github.com/um1augusto/reactLoja
+
 cd e-commerce-app
 
 Instale as dependências:
